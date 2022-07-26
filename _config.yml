@@ -27,9 +27,9 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 include:
   - _pages
@@ -65,7 +65,10 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/sciclone1984"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/alex-sitterer/"
 
 footer:
   links:
@@ -74,10 +77,13 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/sciclone1984"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/alex-sitterer/"
 
 defaults:
-  # _posts
+  # _projects
   - scope:
       path: ""
       type: posts
@@ -85,9 +91,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
