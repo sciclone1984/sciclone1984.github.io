@@ -1,5 +1,5 @@
 ---
+layout: page
 permalink: /certifications/
 title: "Certifications"
-layout: page
 ---
