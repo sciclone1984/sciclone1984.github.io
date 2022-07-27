@@ -85,7 +85,7 @@ footer:
 defaults:
   # _projects
   - scope:
-      path: ""
+      path: "_projects"
       type: posts
     values:
       layout: single
