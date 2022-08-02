@@ -14,13 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Alex Sitterer
+title_seperator: "|"
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   My website for information about me and the stuff I make. 
-twitter_username: sciclone1984
-github_username: sciclone1984
-minimal_mistakes_skin: dark
+twitter_username: "sciclone1984"
+github_username: "sciclone1984"
+minimal_mistakes_skin: "neon"
 search: true
+locale: "en-US"
+repository: "sciclone1984/sciclone1984.github.io"
 
 # Build settings
 markdown: kramdown
@@ -62,30 +65,30 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/sciclone1984"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sciclone1984"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alex-sitterer/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/sciclone1984"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sciclone1984"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alex-sitterer/"
 
 defaults:
-  # _projects
+  # _posts
   - scope:
-      path: "_projects"
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -94,6 +97,9 @@ defaults:
       comments: false
       share: false
       related: false
+      toc: true
+      toc_label: "Table of Contents"
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"
@@ -101,6 +107,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+      toc: true
+      toc_label: "Table of Contents"
+      toc_sticky: true
+  # _portfolio
+  - scope:
+      path: "_projects"
+      type: projects
+    values: 
+      layout: single
+      author_profile: true
+      share: true
 
 category_archive:
   type: liquid
@@ -108,3 +125,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
