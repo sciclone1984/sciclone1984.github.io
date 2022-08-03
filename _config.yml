@@ -25,6 +25,11 @@ search: true
 locale: "en-US"
 repository: "sciclone1984/sciclone1984.github.io"
 logo: "/assets/images/masthead.png"
+og_image: "/assets/images/masthead.png"
+social:
+  type: "Person"
+  links:
+    - "https://www.linkedin.com/in/alex-sitterer/"
 
 # Build settings
 markdown: kramdown
