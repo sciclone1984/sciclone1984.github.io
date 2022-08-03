@@ -24,6 +24,7 @@ minimal_mistakes_skin: "neon"
 search: true
 locale: "en-US"
 repository: "sciclone1984/sciclone1984.github.io"
+logo: "/assets/images/masthead.png"
 
 # Build settings
 markdown: kramdown
