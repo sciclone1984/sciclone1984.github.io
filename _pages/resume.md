@@ -10,7 +10,11 @@ If you would like to download a PDF version of my resume, you can find one [here
 
 ## Work Experience
 
-### Nassau BOCES - Garden City, NY (July 2022 - Present)
+### University of New Haven - West Haven, CT (August 2022 - Present)
+
+Worked in the makerspace, helping students with their projects and assisting with general operation of the makerspace.
+
+### Nassau BOCES - Garden City, NY (July 2022 - August 2022)
 
 Intern in Advanced Security Services, developed automated Azure Sentinel rules to automate SOC response. Also assisted with software upgrades/rollout and SOC operations.
 
