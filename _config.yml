@@ -13,12 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alex Sitterer
+title: Xenia Sitterer
 title_seperator: "|"
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   My website for information about me and the stuff I make. 
-twitter_username: "sciclone1984"
 github_username: "sciclone1984"
 minimal_mistakes_skin: "neon"
 search: true
@@ -65,31 +64,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Alex Sitterer"
+  name   : "Xenia Sitterer"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Cybersecurity student at the University of New Haven. Currently building something from a mixture of words, code, and physical objects."
+  bio    : "Privacy Advocate with a Bachelors in Cybersecurity and Networks. Currently building something from a mixture of words, code, and physical objects."
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sciclone1984"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sciclone1984"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alex-sitterer/"
+      url: "https://www.linkedin.com/in/xenia-sitterer/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sciclone1984"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sciclone1984"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/alex-sitterer/"
+      url: "https://www.linkedin.com/in/xenia-sitterer/"
 
 defaults:
   # _posts

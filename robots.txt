@@ -35,6 +35,7 @@ Disallow: /
 User-agent: CuteStat
 Disallow: /
 
+<<<<<<< Updated upstream
 User-agent: DataForSeoBot
 Disallow: /
 
@@ -84,3 +85,7 @@ Disallow: /
 
 User-agent: Scrapy
 Disallow: /
+=======
+User-agent: Clearview.ai
+Disallow: /
+>>>>>>> Stashed changes

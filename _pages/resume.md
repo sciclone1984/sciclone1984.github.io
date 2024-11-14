@@ -6,11 +6,11 @@ toc_label: "Table of Contents"
 toc_sticky: true
 ---
 
-If you would like to download a PDF version of my resume, you can find one [here](https://drive.google.com/file/d/10Uo3EiTdn0x29ok4oOFSoD0-Ct_mf91b/view?usp=sharing).
+If you would like to download a PDF version of my resume, you can find one [here](https://xeniasitterer.com/assets/resume.pdf).
 
 ## Work Experience
 
-### University of New Haven - West Haven, CT (August 2022 - Present)
+### University of New Haven - West Haven, CT (August 2022 - May 2024)
 
 Worked in the makerspace, helping students with their projects and assisting with general operation of the makerspace.
 
@@ -32,10 +32,10 @@ Researcher (Under Dr. Ibrahim Baggili) Submitted a [paper](https://digitalcommon
 
 ## Education
 
-### University of New Haven - West Haven, CT (August 2020 - Present)
+### University of New Haven - West Haven, CT (May 2024)
 
-Cybersecurity and Networks Major (Cyber Operations Path)
-GPA (To Date): 3.9 out of 4
+B.A in Cybersecurity and Networks (Cyber Operations Path), Magna Cum Laude
+GPA: 3.78 out of 4
 
 ### Long Island Lutheran Middle and High School - Brookville, NY (June 2020)
 High School Diploma with Honors 			
@@ -62,17 +62,19 @@ Co-Captain - 2019-2020 / Head of Special Projects - 2017-2020 / Member - 2016-20
 
 Troop 5, NY - 2013-2020
 
-### UNHcFREG (UNH Hacking Team)
+### Cyber@CIT (University of New Haven Hacking Team)
 
 Participated in NECCDC 2021 & NECPTC 2021 Qualifier
 
 ### Upsilon Pi Epsilon
 
-Historian - 2022-Present
+Historian - 2022-2023
 
 ## Accomplishments and Awards
 
-- 2022 Induction into Upsilon Pi Epsilon Honor Society - UNH
+- 2024 URC Finalists, placed 24th overall - University of New Haven
+- Best Writeup Award - 2023 MITRE eCTF
+- 2022 Induction into Upsilon Pi Epsilon Honor Society - University of New Haven
 - 2020 FIRST Tech Challenge Long Island Inspire Award Winners - advanced to World Championship
 - Academic Excellence in Computer Science - LuHi
 - National Honor Society Member and Star Honor Roll Award (15 Quarters)  - LuHi
