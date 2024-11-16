@@ -28,7 +28,7 @@ og_image: "/assets/images/masthead.png"
 social:
   type: "Person"
   links:
-    - "https://www.linkedin.com/in/alex-sitterer/"
+    - "https://www.linkedin.com/in/xenia-sitterer/"
 
 # Build settings
 markdown: kramdown
@@ -65,7 +65,7 @@ plugins:
 
 author:
   name   : "Xenia Sitterer"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Privacy Advocate with a Bachelors in Cybersecurity and Networks. Currently building something from a mixture of words, code, and physical objects."
   links:
     - label: "GitHub"
