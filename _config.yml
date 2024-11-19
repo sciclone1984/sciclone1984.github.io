@@ -66,7 +66,7 @@ plugins:
 author:
   name   : "Xenia Sitterer"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Privacy Advocate with a Bachelors in Cybersecurity and Networks. Currently building something from a mixture of words, code, and physical objects."
+  bio    : "(She/They) Privacy Advocate with a Bachelors in Cybersecurity and Networks. Currently building something from a mixture of words, code, and physical objects."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
