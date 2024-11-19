@@ -80,7 +80,7 @@ Troop 5, NY - 2013-2020
 
 ## Accomplishments and Awards
 
-- 2024 URC Finalists, placed 24th overall - University of New Haven
+- 2024 University Rover Challenge World Finalists, placed 24th overall - University of New Haven
 - Best Writeup Award - 2023 MITRE eCTF
 - 2022 Induction into Upsilon Pi Epsilon Honor Society - University of New Haven
 - 2020 FIRST Tech Challenge Long Island Inspire Award Winners - advanced to World Championship
