@@ -41,10 +41,6 @@ Researcher (Under Dr. Ibrahim Baggili) Submitted a [paper](https://digitalcommon
 B.A in Cybersecurity and Networks (Cyber Operations Pathway), Magna Cum Laude
 GPA: 3.78 out of 4
 
-### Long Island Lutheran Middle and High School - Brookville, NY (June 2020)
-High School Diploma with Honors 			
-GPA: 94.58 / 100 (Unweighted) 96.00 /100 (Weighted)
-
 ## Programs and Languages
 
 - Adobe Photoshop
@@ -80,6 +76,7 @@ Troop 5, NY - 2013-2020
 
 ## Accomplishments and Awards
 
+- CompTIA Security+ Certification – May 9th 2025 (Expires May 9th 2028)
 - 2024 University Rover Challenge World Finalists, placed 24th overall - University of New Haven
 - Best Writeup Award - 2023 MITRE eCTF
 - 2022 Induction into Upsilon Pi Epsilon Honor Society - University of New Haven
