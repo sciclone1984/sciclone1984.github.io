@@ -10,29 +10,40 @@ If you would like to download a PDF version of my resume, you can find one [here
 
 ## Work Experience
 
-### University of New Haven - West Haven, CT (August 2022 - May 2024)
+### Makerspace Technical Assistant
+**University of New Haven - West Haven, CT (August 2022 - May 2024)**
 
-Worked in the makerspace, helping students with their projects and assisting with general operation of the makerspace.
+Helped students with their projects and assisting with general operation of the makerspace.
 
-### Riverside Research - Lexington, MA (June 2023 - August 2023)
+### Secure and Resilant Systems Team Intern
+**Riverside Research - Lexington, MA (June 2023 - August 2023)**
 
-Interned with the Secure and Resilient Systems team (Under the Open Innovations Center) for various projects including network security, vulnerability testing, cellular networks, and harmonic radar. 
+Worked on various projects including network security, vulnerability testing, cellular networks, and harmonic radar. 
 
-### Nassau BOCES - Garden City, NY (July 2022 - August 2022)
+### Advanced Security Systems Intern
+**Nassau BOCES - Garden City, NY (July 2022 - August 2022)**
 
-Intern in Advanced Security Services, developed automated Azure Sentinel rules to automate SOC response. Also assisted with software upgrades/rollout and SOC operations.
+Developed automated Azure Sentinel rules to automate SOC response. Also assisted with software upgrades/rollout and SOC operations.
 
-### 5 Element Analytics - Merrick, New York (June 2022 - June 2022)
+### Pentesting Intern
+**5 Element Analytics - Merrick, New York (June 2022 - June 2022)**
 
 Performed a security analysis of their systems and applications as well as ensuring HIPPA, FERPA, GDPR, and PCI-DSS compliance.
 
-### University of New Haven - West Haven, CT (May 2021 - August 2021)
+### Researcher
+**University of New Haven - West Haven, CT (May 2021 - August 2021)**
 
 Researched the benefits of the CORES research program that UNH hosted during the 2020-2021 to the participants.
 
-### Office of Naval Research - West Haven, CT (August 2020 - May 2021)
+### Researcher 
+**Office of Naval Research - West Haven, CT (August 2020 - May 2021)**
 
 Researcher (Under Dr. Ibrahim Baggili) Submitted a [paper](https://digitalcommons.newhaven.edu/cgi/viewcontent.cgi?article=1100&context=electricalcomputerengineering-facpubs) to NFRWS for review with Nicholas Dubois, presented paper at ONR CORES Symposium as well as [ARES 2021 (WSDF 2021)](https://www.youtube.com/watch?v=RQze6a5ocU4) 
+
+### Engineering Program Intern
+**LuHi Summer Programs - Brookville, NY (July 2019 - August 2019)**
+
+Taught engineering principles and 3D design to 12 campers from 6th to 10th grade.
 
 ## Education
 
@@ -40,6 +51,11 @@ Researcher (Under Dr. Ibrahim Baggili) Submitted a [paper](https://digitalcommon
 
 B.A in Cybersecurity and Networks (Cyber Operations Pathway), Magna Cum Laude
 GPA: 3.78 out of 4
+
+### Long Island Lutheran Middle and High School - Brookville NY (June 2020)
+
+Honors High School Diploma
+GPA: 96.00 out of 100 (Weighted)
 
 ## Programs and Languages
 
